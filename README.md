@@ -1,2 +1,1 @@
-# number-to-words
-# greedy-knapsack
+# greedy-jobsequence
